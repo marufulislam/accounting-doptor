@@ -1,0 +1,14 @@
+{
+    "enabled": true,
+    "info": {
+        "name": "eAccounting Pro",
+        "hash": "module_55ad0a201704051236",
+        "alias": "eAccountingPro",
+        "version": "1.0",
+        "author": "Doptor Team",
+        "vendor": "DoptorLtd",
+        "website": "http:\/\/doptor.com",
+        "description": "Expert Accounting with product inventory"
+    },
+    "target": "admin"
+}
